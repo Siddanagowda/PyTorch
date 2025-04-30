@@ -15,6 +15,9 @@ This repository contains Jupyter notebooks for learning and implementing PyTorch
 3. **pytorch_workflow.ipynb**  
    This notebook demonstrates a complete PyTorch workflow, from data preparation to model training and evaluation. It provides a practical guide to implementing end-to-end machine learning pipelines.
 
+4. **PyTorch_computer_vision.ipynb**  
+   This notebook focuses on computer vision tasks using PyTorch. It includes examples and explanations for working with image data, building convolutional neural networks (CNNs), and applying transfer learning.
+
 ---
 
 ## How to Use
@@ -138,6 +141,38 @@ This notebook focuses on solving classification problems using PyTorch. Here are
 
 ---
 
+### 4. PyTorch Computer Vision (`PyTorch_computer_vision.ipynb`)
+
+This notebook focuses on computer vision tasks using PyTorch. Here are the topics to explore:
+
+#### Topics:
+- **Introduction to Computer Vision**:
+  - What is computer vision?
+  - Applications of computer vision (e.g., object detection, image segmentation)
+
+- **Working with Image Data**:
+  - Loading and preprocessing image datasets
+  - Using `torchvision.datasets` and `torchvision.transforms`
+
+- **Building Convolutional Neural Networks (CNNs)**:
+  - Understanding convolutional layers, pooling layers, and fully connected layers
+  - Implementing CNN architectures in PyTorch
+
+- **Transfer Learning**:
+  - Using pre-trained models like ResNet, VGG, or MobileNet
+  - Fine-tuning pre-trained models for specific tasks
+
+- **Training and Evaluation**:
+  - Training CNNs on image datasets
+  - Evaluating model performance using metrics like accuracy and F1-score
+  - Visualizing predictions and feature maps
+
+- **Advanced Topics**:
+  - Data augmentation techniques for improving model generalization
+  - Using GPUs for faster training of large models
+
+---
+
 ### Additional Topics to Explore
 
 If you want to dive deeper into PyTorch, here are some additional topics you can explore:
@@ -166,7 +201,8 @@ If you want to dive deeper into PyTorch, here are some additional topics you can
 
 1. Start with **PyTorch Fundamentals** to build a strong foundation.
 2. Move on to **PyTorch Workflow** to understand the end-to-end process.
-3. Finally, dive into **PyTorch Classification** to apply your knowledge to a specific task.
+3. Explore **PyTorch Classification** to apply your knowledge to a specific task.
+4. Dive into **PyTorch Computer Vision** for image-based tasks.
 
 ---
 

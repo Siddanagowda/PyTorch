@@ -21,8 +21,8 @@ This repository contains Jupyter notebooks for learning and implementing PyTorch
 5. **PyTorch_NLP.ipynb**  
    This notebook introduces natural language processing (NLP) tasks using PyTorch. It covers tokenization, embeddings, and building RNNs or transformers for text data.
 
-6. **PyTorch_TimeSeries.ipynb**  
-   This notebook demonstrates how to work with time series data using PyTorch. It includes examples of building and training models like RNNs, LSTMs, and GRUs for sequential data.
+6. **PyTorch_TransferLearning.ipynb**  
+   This notebook demonstrates how to apply transfer learning techniques using PyTorch. It includes examples of using pre-trained models and fine-tuning them for specific tasks.
 
 7. **PyTorch_Advanced_Topics.ipynb**  
    This notebook explores advanced PyTorch topics, such as custom datasets, distributed training, and mixed precision training.
@@ -188,9 +188,9 @@ This notebook introduces natural language processing (NLP) tasks using PyTorch. 
 
 ---
 
-### 6. PyTorch Time Series (`PyTorch_TimeSeries.ipynb`)
+### 6. PyTorch Transfer Learning (`PyTorch_TransferLearning.ipynb`) 
 
-This notebook demonstrates how to work with time series data using PyTorch. It includes examples of building and training models like RNNs, LSTMs, and GRUs for sequential data.
+This notebook demonstrates how to apply transfer learning techniques using PyTorch. It includes examples of using pre-trained models and fine-tuning them for specific tasks.
 
 ---
 
@@ -206,7 +206,7 @@ This notebook explores advanced PyTorch topics, such as custom datasets, distrib
 2. Move on to **PyTorch Workflow** to understand the end-to-end process.
 3. Explore **PyTorch Classification** to apply your knowledge to a specific task.
 4. Dive into **PyTorch Computer Vision** for image-based tasks.
-5. Explore **PyTorch NLP**, **PyTorch Time Series**, and **PyTorch Advanced Topics** for specialized use cases.
+5. Explore **PyTorch NLP**, **PyTorch Transfer Learning**, and **PyTorch Advanced Topics** for specialized use cases.
 
 ---
 

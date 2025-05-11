@@ -18,6 +18,15 @@ This repository contains Jupyter notebooks for learning and implementing PyTorch
 4. **PyTorch_computer_vision.ipynb**  
    This notebook focuses on computer vision tasks using PyTorch. It includes examples and explanations for working with image data, building convolutional neural networks (CNNs), and applying transfer learning.
 
+5. **PyTorch_NLP.ipynb**  
+   This notebook introduces natural language processing (NLP) tasks using PyTorch. It covers tokenization, embeddings, and building RNNs or transformers for text data.
+
+6. **PyTorch_TimeSeries.ipynb**  
+   This notebook demonstrates how to work with time series data using PyTorch. It includes examples of building and training models like RNNs, LSTMs, and GRUs for sequential data.
+
+7. **PyTorch_Advanced_Topics.ipynb**  
+   This notebook explores advanced PyTorch topics, such as custom datasets, distributed training, and mixed precision training.
+
 ---
 
 ## How to Use
@@ -173,27 +182,21 @@ This notebook focuses on computer vision tasks using PyTorch. Here are the topic
 
 ---
 
-### Additional Topics to Explore
+### 5. PyTorch NLP (`PyTorch_NLP.ipynb`)
 
-If you want to dive deeper into PyTorch, here are some additional topics you can explore:
+This notebook introduces natural language processing (NLP) tasks using PyTorch. It covers tokenization, embeddings, and building RNNs or transformers for text data.
 
-- **Transfer Learning**:
-  - Using pre-trained models like ResNet, VGG, or MobileNet for your tasks
-  - Fine-tuning pre-trained models for specific datasets
+---
 
-- **Convolutional Neural Networks (CNNs)**:
-  - Understanding convolutional layers for image data
-  - Building CNN architectures in PyTorch
+### 6. PyTorch Time Series (`PyTorch_TimeSeries.ipynb`)
 
-- **Recurrent Neural Networks (RNNs)**:
-  - Using RNNs, LSTMs, or GRUs for sequential data (e.g., time series, text)
+This notebook demonstrates how to work with time series data using PyTorch. It includes examples of building and training models like RNNs, LSTMs, and GRUs for sequential data.
 
-- **PyTorch Lightning**:
-  - Simplifying PyTorch workflows with PyTorch Lightning
+---
 
-- **Deployment**:
-  - Exporting PyTorch models to ONNX or TorchScript for deployment
-  - Using PyTorch models in production environments
+### 7. PyTorch Advanced Topics (`PyTorch_Advanced_Topics.ipynb`)
+
+This notebook explores advanced PyTorch topics, such as custom datasets, distributed training, and mixed precision training.
 
 ---
 
@@ -203,6 +206,7 @@ If you want to dive deeper into PyTorch, here are some additional topics you can
 2. Move on to **PyTorch Workflow** to understand the end-to-end process.
 3. Explore **PyTorch Classification** to apply your knowledge to a specific task.
 4. Dive into **PyTorch Computer Vision** for image-based tasks.
+5. Explore **PyTorch NLP**, **PyTorch Time Series**, and **PyTorch Advanced Topics** for specialized use cases.
 
 ---
 
